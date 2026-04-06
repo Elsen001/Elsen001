@@ -34,19 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Elshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsen001&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsen001&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake (Live Activity)
-![Snake animation](https://raw.githubusercontent.com/Elsen001/Elsen001/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔥 Featured Projects
 🚀 [Portfolio Website](https://elsen-portfolio.netlify.app/)  
 💻 More projects on my GitHub profile  
