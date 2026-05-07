@@ -44,7 +44,6 @@
 
 ## 📫 Contact Me
 📧 Email: elshan_jamalov_1905@yahoo.com  
-🌐 Portfolio: https://elsen-portfolio.netlify.app/  
 💼 LinkedIn: https://www.linkedin.com/in/elsencamalov/  
 
 ---
