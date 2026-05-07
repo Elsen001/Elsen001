@@ -34,12 +34,6 @@
 
 ---
 
-## 🔥 Featured Projects
-🚀 [Portfolio Website](https://elsen-portfolio.netlify.app/)  
-💻 More projects on my GitHub profile  
-
----
-
 ## 🧠 What I Focus On
 - Scalable frontend architecture  
 - Performance optimization  
